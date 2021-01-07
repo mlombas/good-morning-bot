@@ -1,0 +1,11 @@
+Welcome to Good Morning Bot help!
+You can set the time at which your bot will say good morning to you with:
+    /set_time <your time>
+    Although many formats work, it is preferred if you use hour:minute:second
+    with two digits for each hour, and 24h format. If the format you tried
+    is not supported, then the bot will warn you, dont worry!
+You can set the message you want with the following command:
+    /set_message <your message>
+    It can be pretty much anything you like!
+
+Thank you for using me! Enjoy!
